@@ -11,7 +11,7 @@
   Pranav Cherukupalli <cherukupallip@gmail.com>
 */
 
-#define Threshold 45 /* Greater the value, more the sensitivity */
+#define Threshold 43 /* Greater the value, more the sensitivity */
 #include "ESP32BleAdvertise.h"
 
 RTC_DATA_ATTR int bootCount = 0;
